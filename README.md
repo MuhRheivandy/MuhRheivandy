@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/MuhRheivandy">
-    <img width="49%" src="https://ghstats.dev/api/card?username=MuhRheivandy&amp;bg=000000&amp;text=ffffff&amp;title_color=ffffff&amp;icon_color=ffffff&amp;border_color=30363d&amp;border_radius=8&amp;hide=followers,streak,week,trend,avg,active_day&amp;custom_title=MUH%20RHEIVANDY%20%2F%2F%20GITHUB%20STATS" alt="Muh Rheivandy's GitHub statistics" />
+    <img width="49%" src="https://ghstats.dev/api/card?username=MuhRheivandy&amp;bg=000000&amp;text=ffffff&amp;title_color=ffffff&amp;icon_color=ffffff&amp;border_color=30363d&amp;border_radius=8&amp;hide=stars,issues,streak,week,trend,avg,active_day,grade,contributions,followers&amp;custom_title=MUH%20RHEIVANDY%20%2F%2F%20GITHUB%20STATS" alt="Muh Rheivandy's GitHub statistics" />
   </a>
   <a href="https://github.com/MuhRheivandy">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=MuhRheivandy&amp;background=000000&amp;border=30363d&amp;stroke=30363d&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=8b949e&amp;border_radius=8" alt="Muh Rheivandy's GitHub contribution streak" />
+    <img width="49%" src="https://ghstats.dev/api/card?username=MuhRheivandy&amp;bg=000000&amp;text=ffffff&amp;title_color=ffffff&amp;icon_color=ffffff&amp;border_color=30363d&amp;border_radius=8&amp;hide=stars,commits,prs,issues,followers,week,trend,avg,repos,grade&amp;custom_title=MUH%20RHEIVANDY%20%2F%2F%20STREAK" alt="Muh Rheivandy's GitHub contribution streak and activity" />
   </a>
 </div>
 
