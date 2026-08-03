@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 24" role="img" aria-labelledby="title desc">
+  <title id="title">Animated system divider</title>
+  <desc id="desc">A subtle horizontal system line with a slowly moving status marker.</desc>
+  <path d="M0 12H960" stroke="#303946" stroke-width="2"/>
+  <path d="M0 12H240" stroke="#6a9fd8" stroke-width="2" opacity="0.55"/>
+  <circle cx="8" cy="12" r="5" fill="#e3a953">
+    <animate attributeName="cx" values="8;952;8" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="12" r="3" fill="#7fb38a"/>
+</svg>

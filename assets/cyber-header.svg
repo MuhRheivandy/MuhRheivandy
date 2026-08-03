@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Muh Rheivandy cyber command center header</title>
+  <desc id="desc">A restrained terminal-style header showing a verified identity and online system status.</desc>
+  <rect width="960" height="280" rx="18" fill="#11151c"/>
+  <rect x="1" y="1" width="958" height="278" rx="17" fill="none" stroke="#303946" stroke-width="2"/>
+
+  <g opacity="0.16" stroke="#607080" stroke-width="1">
+    <path d="M0 56H960M0 112H960M0 168H960M0 224H960"/>
+    <path d="M120 0V280M240 0V280M360 0V280M480 0V280M600 0V280M720 0V280M840 0V280"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="34" cy="29" r="6" fill="#e3a953"/>
+    <circle cx="55" cy="29" r="6" fill="#6a9fd8"/>
+    <circle cx="76" cy="29" r="6" fill="#7fb38a"/>
+    <text x="104" y="35" fill="#8b98a8" font-size="16">SYS://IDENTITY_CONSOLE</text>
+    <text x="822" y="35" fill="#7fb38a" font-size="15">● ONLINE</text>
+
+    <text x="48" y="91" fill="#7fb38a" font-size="15">ACCESS GRANTED // IDENTITY VERIFIED</text>
+    <text x="48" y="148" fill="#f1eadc" font-size="38" font-weight="700" letter-spacing="2">MUH RHEIVANDY</text>
+    <text x="48" y="184" fill="#6a9fd8" font-size="18">FULLSTACK DEV  /  UI·UX  /  CYBERSECURITY</text>
+    <text x="48" y="229" fill="#aeb8c4" font-size="16">building useful systems from Indonesia</text>
+    <text x="48" y="256" fill="#8b98a8" font-size="14">MODE: LEARNING</text>
+    <text x="222" y="256" fill="#8b98a8" font-size="14">FOCUS: BUILDING</text>
+    <text x="406" y="256" fill="#8b98a8" font-size="14">CHANNEL: OPEN</text>
+    <rect x="621" y="244" width="9" height="15" fill="#7fb38a">
+      <animate attributeName="opacity" values="1;1;0.2;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0" y="62" width="960" height="2" fill="#7fb38a" opacity="0.24">
+    <animate attributeName="y" values="62;250;62" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="10s" repeatCount="indefinite"/>
+  </rect>
+</svg>
