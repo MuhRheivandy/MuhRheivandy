@@ -20,19 +20,38 @@
 <h2 align="center">Technologies</h2>
 
 <div align="center">
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS3" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
   <br />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img height="28" src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img height="36" src="https://img.shields.io/badge/-000000?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+</div>
+
+<h2 align="center">Statistics</h2>
+
+<div align="center">
+  <a href="https://github.com/MuhRheivandy">
+    <img width="49%" src="https://ghstats.dev/api/card?username=MuhRheivandy&amp;bg=000000&amp;text=ffffff&amp;title_color=ffffff&amp;icon_color=ffffff&amp;border_color=30363d&amp;border_radius=8&amp;hide=followers,streak,week,trend,avg,active_day&amp;custom_title=MUH%20RHEIVANDY%20%2F%2F%20GITHUB%20STATS" alt="Muh Rheivandy's GitHub statistics" />
+  </a>
+  <a href="https://github.com/MuhRheivandy">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=MuhRheivandy&amp;background=000000&amp;border=30363d&amp;stroke=30363d&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=8b949e&amp;border_radius=8" alt="Muh Rheivandy's GitHub contribution streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/MuhRheivandy?tab=overview">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhRheivandy&amp;bg_color=000000&amp;color=ffffff&amp;line=ffffff&amp;point=8b949e&amp;area_color=ffffff&amp;area=true&amp;hide_border=false&amp;border_color=30363d&amp;radius=8&amp;custom_title=MUH%20RHEIVANDY%20%2F%2F%20CONTRIBUTION%20GRAPH" alt="Muh Rheivandy's public GitHub contribution graph" />
+  </a>
 </div>
