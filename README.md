@@ -1,181 +1,96 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="Muh Rheivandy cyber command center — identity verified and system online" />
+  <img src="./assets/cyber-header.svg" width="100%" alt="Monochrome cyber terminal header for Muh Rheivandy" />
 </div>
 
 ```text
-┌────────────────────────────┐
-│  M U H   R H E I V A N D Y │
-└────────────────────────────┘
-[ SYSTEM BOOT ] identity verified
-[ ACCESS      ] granted
-[ SESSION     ] ready
+ __  __ _   _ _   _
+|  \/  | | | | | | |
+| |\/| | | | | |_| |
+|_|  |_|\___/|_| |_|
+  R H E I V A N D Y
+
+> fullstack / ui-ux / cybersecurity
+> status: building · learning · exploring _
 ```
 
-<h1 align="center">Hello, I'm Muh Rheivandy</h1>
+<h1 align="center">Muh Rheivandy</h1>
 
 <p align="center">
-  Fullstack Developer · UI/UX Designer · Cybersecurity Enthusiast
+  Fullstack Developer · UI/UX Designer · Cybersecurity Enthusiast<br />
+  <sub>Indonesia — available for learning and collaboration</sub>
 </p>
 
-<p align="center">
-  I build digital solutions, design meaningful experiences,<br />
-  and continuously learn to grow.
-</p>
+<img src="./assets/section-divider.svg" width="100%" alt="Monochrome terminal divider" />
 
-<div align="center">
-  <img src="./assets/typing-roles.svg" width="720" alt="Current roles: Fullstack Developer, UI/UX Designer, Cybersecurity Enthusiast, Problem Solver, and Tech Explorer" />
-</div>
+## `01 / ABOUT`
 
-<p align="center"><sub>Fullstack Developer · UI/UX Designer · Cybersecurity Enthusiast · Problem Solver · Tech Explorer</sub></p>
-
-<img src="./assets/section-divider.svg" width="100%" alt="System section divider" />
-
-## `01 // IDENTITY FILE`
-
-| Field | Operator record |
-|:--|:--|
-| **Name** | Muh Rheivandy |
-| **Class** | Fullstack Developer |
-| **Secondary class** | UI/UX Designer |
-| **Specialization** | Cybersecurity Enthusiast |
-| **Location** | Indonesia |
-| **Current status** | Building, learning, and exploring. |
-| **Mission** | Create useful digital products and meaningful user experiences. |
-
-## `02 // SYSTEM PROFILE`
-
-I build modern websites and web applications, with a strong interest in the thinking behind thoughtful UI/UX. I enjoy turning unclear problems into simple, useful experiences and exploring new technology along the way.
-
-Right now, I am developing an interactive personal portfolio and learning cybersecurity fundamentals. I am always open to learning with others, exchanging ideas, and collaborating on interesting projects.
-
-## `03 // CURRENT MISSION`
+I build modern web experiences where code and design work as one. Currently exploring fullstack development, thoughtful interfaces, and cybersecurity fundamentals.
 
 ```text
-STATUS : ONLINE              MODE  : LEARNING
-FOCUS  : BUILDING
-
-[ACTIVE]    Building an interactive personal portfolio
-[LEARNING]  Cybersecurity fundamentals
-[EXPLORING] Modern fullstack web development
-[IMPROVING] UI/UX and software engineering skills
-[OPEN]      Collaboration and learning opportunities
+[ BUILDING ] an interactive personal portfolio
+[ LEARNING ] cybersecurity fundamentals
+[ OPEN     ] collaboration and interesting projects
 ```
 
-## `04 // TECH ARSENAL`
+## `02 / STACK`
 
-<sub>FRONTEND MODULES</sub><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&amp;theme=dark&amp;perline=8" alt="Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Framer Motion" />
+```text
+WEB      HTML · CSS · JavaScript · TypeScript
+         React · Next.js · Tailwind · Framer Motion
 
-<sub>BACKEND MODULES</sub><br />
-<img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark" alt="Backend: Node.js and Express.js" />
+SERVER   Node.js · Express.js
+DATA     MySQL · PostgreSQL · MongoDB
 
-<sub>DATA MODULES</sub><br />
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark" alt="Databases: MySQL, PostgreSQL, and MongoDB" />
+DESIGN   Figma
+TOOLS    Git · GitHub · VS Code · Vercel
+LAB      Linux · Networking · Web Security
+```
 
-<sub>DESIGN MODULE</sub><br />
-<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Design: Figma" />
+## `03 / SELECTED WORK`
 
-<sub>TOOLS + DEPLOYMENT</sub><br />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" alt="Tools and deployment: Git, GitHub, VS Code, and Vercel" />
-
-<sub>CYBERSECURITY LEARNING</sub>
-
-`Linux` · `Networking` · `Web Security`
-
-## `05 // FEATURED MISSIONS`
-
-### `RHEI.PORTFOLIO` — Personal Portfolio
-
-An interactive personal portfolio combining modern editorial design, retro computing, gaming UI, and smooth animations.
-
-- **Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion
-- **Repository:** [MuhRheivandy/rhei-portfolio](https://github.com/MuhRheivandy/rhei-portfolio) *(may be unavailable while private)*
-- **Status:** Private Development
-- **Live demo:** `PORTFOLIO_DEMO_URL`
+**`RHEI.PORTFOLIO`** — Interactive personal portfolio blending editorial design, retro computing, and smooth motion.<br />
+`Next.js / TypeScript / Tailwind / Framer Motion`<br />
+[Repository](https://github.com/MuhRheivandy/rhei-portfolio) · Private development · `PORTFOLIO_DEMO_URL`
 
 <!-- Replace PORTFOLIO_DEMO_URL with the real portfolio demo URL -->
 
-### `TUMBUH` — Restaurant and Cafe Platform
-
-A platform concept designed to help restaurants and cafés manage digital menus, customer orders, and business operations.
-
-- **Stack:** To be documented
-- **Repository:** `RESTAURANT_REPOSITORY_URL`
-- **Status:** Concept / Development
-- **Live demo:** `RESTAURANT_DEMO_URL`
+**`TUMBUH`** — Restaurant and café platform for menus, orders, and daily operations.<br />
+Concept / development · `RESTAURANT_REPOSITORY_URL` · `RESTAURANT_DEMO_URL`
 
 <!-- Replace RESTAURANT_REPOSITORY_URL with the real repository URL -->
 <!-- Replace RESTAURANT_DEMO_URL with the real demo URL -->
 
-### `QUALITY.LOG` — Software Testing Implementation
+**`QUALITY.LOG`** — Academic implementation and software testing project.<br />
+[Repository](https://github.com/MuhRheivandy/IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK) · Academic project
 
-An academic software implementation and testing project focused on validation, testing processes, and application quality.
-
-- **Stack:** See repository documentation
-- **Repository:** [IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK](https://github.com/MuhRheivandy/IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK)
-- **Status:** Academic Project
-- **Live demo:** Not provided
-
-## `06 // SYSTEM TELEMETRY`
+## `04 / ACTIVITY`
 
 <div align="center">
   <a href="https://github.com/MuhRheivandy?tab=overview">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhRheivandy&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="Muh Rheivandy's public GitHub contribution activity over the last month" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhRheivandy&amp;bg_color=000000&amp;color=ffffff&amp;line=ffffff&amp;point=8b949e&amp;area_color=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20SIGNAL" alt="Muh Rheivandy's public GitHub contribution activity" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/MuhRheivandy?tab=repositories">Browse public repositories</a>
-  ·
-  <a href="https://github.com/MuhRheivandy?tab=overview">View native contribution history</a>
-</p>
+<p align="center"><sub>Public GitHub activity only. Language totals are not a measure of proficiency.</sub></p>
 
-<p align="center"><sub>Telemetry reflects public GitHub activity. Repository language totals, when shown by GitHub, do not indicate proficiency or expertise.</sub></p>
-
-## `07 // CYBER LAB`
-
-Currently studying:
-
-- Linux fundamentals
-- Computer networking
-- Web security fundamentals
-- Security awareness
-- Ethical cybersecurity practices
-
-> All cybersecurity learning is intended for ethical, educational, and defensive purposes.
-
-## `08 // COMMAND TERMINAL`
-
-```console
-$ operator --identity
-Muh Rheivandy // Indonesia
-
-$ mission --current
-Build useful products. Design with intent. Learn continuously.
-
-$ channel --status
-Available for learning, collaboration, and interesting projects.
-```
-
-## `09 // OPEN CHANNELS`
+## `05 / CONNECT`
 
 <!-- Replace PORTFOLIO_URL with the real portfolio URL -->
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Open_channel-27313d?style=flat-square&amp;labelColor=11151c&amp;color=6a9fd8" alt="Visit Muh Rheivandy's portfolio" /></a>
-<!-- Replace LINKEDIN_URL with the real LinkedIn profile URL -->
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-27313d?style=flat-square&amp;labelColor=11151c&amp;color=6a9fd8" alt="Connect with Muh Rheivandy on LinkedIn" /></a>
-<!-- Replace INSTAGRAM_URL with the real Instagram profile URL -->
-<a href="INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-Follow-27313d?style=flat-square&amp;labelColor=11151c&amp;color=6a9fd8" alt="Follow Muh Rheivandy on Instagram" /></a>
-<!-- Replace EMAIL_ADDRESS with the real email address, keeping the mailto prefix -->
-<a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Send_message-27313d?style=flat-square&amp;labelColor=11151c&amp;color=7fb38a" alt="Email Muh Rheivandy" /></a>
+<!-- Replace LINKEDIN_URL with the real LinkedIn URL -->
+<!-- Replace INSTAGRAM_URL with the real Instagram URL -->
+<!-- Replace EMAIL_ADDRESS with the real email address -->
 
-<!-- PORTFOLIO_URL, LINKEDIN_URL, INSTAGRAM_URL, and EMAIL_ADDRESS are intentionally visible placeholders. -->
-
-<br />
+<p align="center">
+  <a href="PORTFOLIO_URL"><code>[ PORTFOLIO ]</code></a>
+  &nbsp;
+  <a href="LINKEDIN_URL"><code>[ LINKEDIN ]</code></a>
+  &nbsp;
+  <a href="INSTAGRAM_URL"><code>[ INSTAGRAM ]</code></a>
+  &nbsp;
+  <a href="mailto:EMAIL_ADDRESS"><code>[ EMAIL ]</code></a>
+</p>
 
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="End of transmission divider" />
-  <p>Thanks for visiting my profile.</p>
-  <code>&gt; building, learning, and exploring...</code>
-  <br /><br />
-  <sub>SESSION ACTIVE · CONNECTION SECURE · END OF TRANSMISSION</sub>
+  <code>SESSION ACTIVE // KEEP BUILDING _</code>
 </div>

@@ -1,35 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
-  <title id="title">Muh Rheivandy cyber command center header</title>
-  <desc id="desc">A restrained terminal-style header showing a verified identity and online system status.</desc>
-  <rect width="960" height="280" rx="18" fill="#11151c"/>
-  <rect x="1" y="1" width="958" height="278" rx="17" fill="none" stroke="#303946" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Muh Rheivandy monochrome cyber console</title>
+  <desc id="desc">A black and white terminal panel identifying Muh Rheivandy as a fullstack developer, UI UX designer, and cybersecurity enthusiast.</desc>
 
-  <g opacity="0.16" stroke="#607080" stroke-width="1">
-    <path d="M0 56H960M0 112H960M0 168H960M0 224H960"/>
-    <path d="M120 0V280M240 0V280M360 0V280M480 0V280M600 0V280M720 0V280M840 0V280"/>
+  <rect width="960" height="300" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="958" height="298" rx="11" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="2"/>
+
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.1">
+    <path d="M0 50H960M0 250H960"/>
+    <path d="M640 0V300M800 0V300"/>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <circle cx="34" cy="29" r="6" fill="#e3a953"/>
-    <circle cx="55" cy="29" r="6" fill="#6a9fd8"/>
-    <circle cx="76" cy="29" r="6" fill="#7fb38a"/>
-    <text x="104" y="35" fill="#8b98a8" font-size="16">SYS://IDENTITY_CONSOLE</text>
-    <text x="822" y="35" fill="#7fb38a" font-size="15">● ONLINE</text>
+    <text x="30" y="32" fill="#8b949e" font-size="13">SYS://OPERATOR_PROFILE</text>
+    <text x="818" y="32" fill="#ffffff" font-size="13">[ ONLINE ]</text>
 
-    <text x="48" y="91" fill="#7fb38a" font-size="15">ACCESS GRANTED // IDENTITY VERIFIED</text>
-    <text x="48" y="148" fill="#f1eadc" font-size="38" font-weight="700" letter-spacing="2">MUH RHEIVANDY</text>
-    <text x="48" y="184" fill="#6a9fd8" font-size="18">FULLSTACK DEV  /  UI·UX  /  CYBERSECURITY</text>
-    <text x="48" y="229" fill="#aeb8c4" font-size="16">building useful systems from Indonesia</text>
-    <text x="48" y="256" fill="#8b98a8" font-size="14">MODE: LEARNING</text>
-    <text x="222" y="256" fill="#8b98a8" font-size="14">FOCUS: BUILDING</text>
-    <text x="406" y="256" fill="#8b98a8" font-size="14">CHANNEL: OPEN</text>
-    <rect x="621" y="244" width="9" height="15" fill="#7fb38a">
-      <animate attributeName="opacity" values="1;1;0.2;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    <text x="44" y="90" fill="#8b949e" font-size="15">IDENTITY VERIFIED</text>
+    <text x="44" y="154" fill="#ffffff" font-size="44" font-weight="700" letter-spacing="3">MUH RHEIVANDY</text>
+    <text x="44" y="192" fill="#d0d0d0" font-size="17">FULLSTACK / UI·UX / CYBERSECURITY</text>
+    <text x="44" y="234" fill="#8b949e" font-size="14">BUILDING  ·  LEARNING  ·  EXPLORING</text>
+    <rect x="407" y="220" width="9" height="17" fill="#ffffff">
+      <animate attributeName="opacity" values="1;1;0.15;0.15;1" dur="1.8s" repeatCount="indefinite"/>
     </rect>
+
+    <text x="675" y="91" fill="#ffffff" fill-opacity="0.7" font-size="13">01001101  M</text>
+    <text x="675" y="119" fill="#ffffff" fill-opacity="0.55" font-size="13">01010101  U</text>
+    <text x="675" y="147" fill="#ffffff" fill-opacity="0.4" font-size="13">01001000  H</text>
+    <text x="675" y="204" fill="#8b949e" font-size="12">ACCESS: PUBLIC</text>
+    <text x="675" y="230" fill="#8b949e" font-size="12">LOCATION: ID</text>
   </g>
 
-  <rect x="0" y="62" width="960" height="2" fill="#7fb38a" opacity="0.24">
-    <animate attributeName="y" values="62;250;62" dur="10s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="10s" repeatCount="indefinite"/>
+  <rect x="0" y="52" width="960" height="1" fill="#ffffff" opacity="0.08">
+    <animate attributeName="y" values="52;248;52" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.22;0.05" dur="12s" repeatCount="indefinite"/>
   </rect>
 </svg>
