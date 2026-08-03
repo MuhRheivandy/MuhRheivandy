@@ -2,17 +2,6 @@
   <img src="./assets/cyber-header.svg" width="100%" alt="Monochrome cyber terminal header for Muh Rheivandy" />
 </div>
 
-```text
- __  __ _   _ _   _
-|  \/  | | | | | | |
-| |\/| | | | | |_| |
-|_|  |_|\___/|_| |_|
-  R H E I V A N D Y
-
-> fullstack / ui-ux / cybersecurity
-> status: building · learning · exploring _
-```
-
 <h1 align="center">Muh Rheivandy</h1>
 
 <p align="center">
