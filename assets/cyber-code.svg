@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="title desc">
+  <title id="title">Muh Rheivandy animated cyber code field</title>
+  <desc id="desc">A restrained black and white field of moving binary digits and code surrounding a welcome message.</desc>
+
+  <defs>
+    <clipPath id="frame-clip">
+      <rect width="1000" height="380" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-clip)">
+    <rect width="1000" height="380" fill="#050505"/>
+
+    <g fill="none" stroke="#ffffff" stroke-opacity="0.075">
+      <path d="M0 56H1000M0 324H1000"/>
+      <path d="M74 0V380M926 0V380"/>
+      <path d="M0 190H1000" stroke-dasharray="3 12"/>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" white-space="pre">
+      <g fill="#ffffff" opacity="0.12" font-size="12" letter-spacing="4">
+        <text x="-260" y="91">01001101 01010101 01001000 00100000 01010010 01001000 01000101 01001001 01010110 01000001 01001110 01000100 01011001
+          <animateTransform attributeName="transform" type="translate" values="0 0;180 0;0 0" dur="24s" repeatCount="indefinite"/>
+        </text>
+        <text x="-30" y="139">10110010 10101010 10110111 11011111 10101101 10110111 10111010 10110110 10101001 10111110 10110001 10111011 10100110
+          <animateTransform attributeName="transform" type="translate" values="0 0;-190 0;0 0" dur="29s" repeatCount="indefinite"/>
+        </text>
+        <text x="-180" y="245">00110110 01100010 01110101 01101001 01101100 01100100 00101110 01101100 01100101 01100001 01110010 01101110 00101110
+          <animateTransform attributeName="transform" type="translate" values="0 0;150 0;0 0" dur="27s" repeatCount="indefinite"/>
+        </text>
+        <text x="-10" y="293">11001001 10011101 10001010 10010110 10010011 10011011 11010001 10010011 10011010 10011110 10001101 10010001 11010001
+          <animateTransform attributeName="transform" type="translate" values="0 0;-170 0;0 0" dur="31s" repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g fill="#ffffff" opacity="0.17" font-size="11">
+        <text x="27" y="116">const identity = "MuhRheivandy";</text>
+        <text x="27" y="270">status.connect();</text>
+        <text x="762" y="116">while (curious) learn();</text>
+        <text x="790" y="270">build({ intent: true });</text>
+      </g>
+
+      <g fill="#ffffff" opacity="0.09" font-size="10" letter-spacing="2">
+        <text x="104" y="-30">0<tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">1</tspan><tspan x="104" dy="18">0</tspan><tspan x="104" dy="18">1</tspan>
+          <animateTransform attributeName="transform" type="translate" values="0 -40;0 70;0 -40" dur="19s" repeatCount="indefinite"/>
+        </text>
+        <text x="896" y="-20">1<tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan><tspan x="896" dy="18">0</tspan><tspan x="896" dy="18">1</tspan>
+          <animateTransform attributeName="transform" type="translate" values="0 55;0 -30;0 55" dur="23s" repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <text x="28" y="35" fill="#8b949e" font-size="12">SYS://WELCOME_CONSOLE</text>
+      <text x="882" y="35" fill="#ffffff" font-size="12">[ ONLINE ]</text>
+    </g>
+
+    <g>
+      <rect x="215" y="91" width="570" height="198" rx="8" fill="#050505" stroke="#ffffff" stroke-opacity="0.32"/>
+      <path d="M239 119H761M239 260H761" stroke="#ffffff" stroke-opacity="0.13"/>
+      <path d="M215 122V91H246M754 91H785V122M215 258V289H246M754 289H785V258" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2"/>
+
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+        <text x="500" y="154" fill="#8b949e" font-size="13" letter-spacing="4">IDENTITY VERIFIED // 001</text>
+        <text x="500" y="204" fill="#ffffff" font-size="29" font-weight="700">WELCOME TO MY GITHUB</text>
+        <text x="500" y="237" fill="#b8bec7" font-size="13" letter-spacing="3">MUH RHEIVANDY</text>
+        <rect x="568" y="226" width="8" height="15" fill="#ffffff">
+          <animate attributeName="opacity" values="1;1;0.15;0.15;1" dur="1.8s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <rect x="0" y="60" width="1000" height="1" fill="#ffffff" opacity="0.05">
+      <animate attributeName="y" values="60;320;60" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.03;0.16;0.03" dur="13s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="998" height="378" rx="9" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
+</svg>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/binary-hands.svg" width="100%" alt="Animated hands formed from binary digits opening to reveal Welcome to my GitHub" />
+  <img src="./assets/cyber-code.svg" width="100%" alt="Animated monochrome code field framing Welcome to my GitHub" />
 </div>
 
 <h2 align="center">About Me</h2>
